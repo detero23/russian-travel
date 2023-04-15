@@ -3,8 +3,10 @@
   margin: 0 auto;
   padding: 0;
   position: relative;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  flex-direction: column;
+  flex-direction: column; */
   max-width: calc(100vw - 48px * 2);
+  min-height: calc((100vw - 48px * 2) * 0.625);
+  display: flex;
 }

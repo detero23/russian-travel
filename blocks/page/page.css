@@ -4,5 +4,9 @@
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   font-style: normal;
   color: #fff;
+  box-sizing: border-box;
+
   padding: 0 48px;
+  min-width: 1280px;
+
 }

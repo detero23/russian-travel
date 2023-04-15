@@ -1,11 +1,11 @@
 .photo-grid {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 0;
   padding: 0 0 92px 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
 
-  max-width: calc(100vw - 48px * 2);
-  /* gap: 16px; */
-  gap: 0.5%;
+  /* max-width: calc(100vw - 48px * 2); */
+  gap: 16px;
+  /* gap: 0.5%; */
 }

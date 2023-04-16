@@ -28,7 +28,6 @@
   .place__paragraph {
     grid-row: 4/4;
     grid-column: 1/1;
-    max-width: calc(100vw - 5vw * 2);
     padding-left: 5vw;
     max-width: 330px;
   }

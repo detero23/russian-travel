@@ -4,38 +4,8 @@
   font-family: 'Inter', Arial, Helvetica, sans-serif;
   font-style: normal;
   color: #fff;
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* box-sizing: border-box; */
-  /* width: 100vw; */
-  /* padding: 0 48px; */
+  width: 100vw;
 }
-/*
-@media screen and (min-width: 1280px) {
-  .page {
-      padding: 0 48px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .page {
-      padding: 0 48px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .page {
-      padding: 0 24px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .page {
-      padding: 0 16px;
-  }
-} */
-
-
 
 
 

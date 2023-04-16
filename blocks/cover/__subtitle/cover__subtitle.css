@@ -13,6 +13,6 @@
   .cover__subtitle {
     font-size: 14px;
     line-height: 1.14;
-    max-width: 280px;
+    max-width: calc(100vw - 5vw * 2);
   }
 }

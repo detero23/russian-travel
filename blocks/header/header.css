@@ -19,11 +19,11 @@
 }
 @media screen and (max-width: 768px) {
   .header {
-      padding: 28px 3.125vw 56px;
+      padding: 28px 3.125vw 48px;
   }
 }
 @media screen and (max-width: 320px) {
   .header {
-      padding: 5vw 5vw 56px;
+      padding: 5vw 5vw 15vw;
   }
 }

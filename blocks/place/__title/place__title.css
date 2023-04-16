@@ -10,11 +10,16 @@
   max-width: 460px;
 }
 
+@media screen and (max-width: 1024px) {
+  .place__title {
+    max-width: 440px;
+  }
+}
 @media screen and (max-width: 768px) {
   .place__title {
-    font-size: 9.375vw;
+    font-size: 42px;
     line-height: 1.1;
-    /* max-width: calc(100vw - 3.125vw * 2); */
+    max-width: 330px;
   }
 }
 @media screen and (max-width: 320px) {

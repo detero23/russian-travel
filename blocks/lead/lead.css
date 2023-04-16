@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 1280px) {
   .lead {
-    max-width: calc(1280px - 148px * 2);;
+    max-width: calc(1280px - 148px * 2);
   }
 }
 @media screen and (max-width: 1024px) {

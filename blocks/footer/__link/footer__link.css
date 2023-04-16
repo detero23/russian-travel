@@ -20,3 +20,11 @@
       opacity: 0.8;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+    font-size: 7.5vw;
+    line-height: 1;
+    padding: 0 0 10vw 0;
+  }
+}

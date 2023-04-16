@@ -8,3 +8,10 @@
   text-decoration-line: none;
   color: #FFFFFF;
 }
+
+@media screen and (max-width: 320px) {
+  .header__lang-link {
+    font-size: 5.625vw;
+    line-height: 1.11;
+  }
+}

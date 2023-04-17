@@ -1,6 +1,6 @@
 .footer__link {
   margin: 0;
-  padding: 0 18px 0 0;
+  padding: 0;
   text-decoration: none;
   font-weight: 400;
   font-size: 16px;
@@ -9,16 +9,7 @@
 }
 
 .footer__link:hover {
-  animation: footer-transparency 0.3s linear 1 forwards;
-}
-
-@keyframes footer-transparency {
-  from {
-      opacity: 1;
-  }
-  to {
-      opacity: 0.8;
-  }
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {

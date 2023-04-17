@@ -9,14 +9,5 @@
 }
 
 .place__link:hover {
-  animation: place-transparency 0.3s linear 1 forwards;
-}
-
-@keyframes place-transparency {
-  from {
-      opacity: 1;
-  }
-  to {
-      opacity: 0.8;
-  }
+  opacity: 0.8;
 }

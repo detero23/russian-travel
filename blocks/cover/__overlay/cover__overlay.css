@@ -22,14 +22,5 @@
 }
 
 .cover__overlay:hover::after {
-  animation: overlay-transparency 0.3s linear 1 forwards;
-}
-
-@keyframes overlay-transparency {
-  from {
-      opacity: 0.3;
-  }
-  to {
-      opacity: 0.8;
-  }
+  opacity: 0.8;
 }

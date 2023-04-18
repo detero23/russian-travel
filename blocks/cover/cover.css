@@ -3,19 +3,10 @@
   padding: 0 48px;
   position: relative;
   display: flex;
-  /* min-width: calc(100vw - 48 * 2 * ( 100vw - 1024px ) / 256);
-  min-height: calc((100vw - 48 * 2 * ( 100vw - 1024px ) / 256) * 0.625); */
 }
 
-/* @media screen and (min-width: 1280px) {
-  .cover {
-    min-width: calc(1280px - 48px * 2);
-    min-height: calc((1280px - 48px * 2) * 0.625);
-  }
-}
 @media screen and (max-width: 1024px) {
   .cover {
-    min-width: 100vw;
-    min-height: 62.5vw;
+    padding: 0;
   }
-} */
+}

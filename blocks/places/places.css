@@ -5,26 +5,21 @@
   flex-direction: column;
   gap: 80px;
 }
-/*
-@media screen and (min-width: 1280px) {
-  .places {
-    max-width: calc(1280px - 48px * 2);
-  }
-}
+
 @media screen and (max-width: 1024px) {
   .places {
-    padding: 0 4.6875vw 80px;
+    padding: 0 48px 92px;
   }
 }
 @media screen and (max-width: 768px) {
   .places {
-    gap: 9.375vw;
-    padding: 0 3.125vw 73px;
+    padding: 0 24px 90px;
+    gap: 73px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .places {
-    gap: 15.625vw;
-    padding: 0 0 64px 0;
+    padding: 0 0 66px;
+    gap: 50px;
   }
-} */
+}

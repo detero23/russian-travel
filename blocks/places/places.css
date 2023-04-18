@@ -1,11 +1,11 @@
 .places {
   margin: 0 auto;
-  padding: 0 48px 92px;
+  padding: 0 148px 92px;
   display: flex;
   flex-direction: column;
   gap: 80px;
 }
-
+/*
 @media screen and (min-width: 1280px) {
   .places {
     max-width: calc(1280px - 48px * 2);
@@ -27,4 +27,4 @@
     gap: 15.625vw;
     padding: 0 0 64px 0;
   }
-}
+} */

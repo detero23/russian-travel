@@ -1,12 +1,13 @@
 .place {
   display: grid;
   grid-template: max-content 1fr/max-content 1fr;
+  grid-template: 1fr 460px/460px 1fr;
   align-items: end;
   gap: 48px 40px;
   max-width: 100%;
   margin: 0 auto;
 }
-
+/*
 @media screen and (max-width: 1024px) {
   .place {
     gap: 48px 32px;
@@ -26,4 +27,4 @@
   .place {
     gap: 10vw;
   }
-}
+} */

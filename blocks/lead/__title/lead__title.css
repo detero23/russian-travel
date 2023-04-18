@@ -1,13 +1,13 @@
 .lead__title {
   margin: 0;
-  padding: 0 0 32px 0;
+  padding: 0 0 32px;
   max-width: 720px;
   font-weight: 900;
   font-size: 96px;
   line-height: 1.04;
   text-align: center;
 }
-
+/*
 @media screen and (max-width: 768px) {
   .lead__title {
     max-width: calc(100vw - 24px * 2);
@@ -20,4 +20,4 @@
     max-width: calc(100vw - 16px * 2);
     padding: 0 0 5vw 0;
   }
-}
+} */

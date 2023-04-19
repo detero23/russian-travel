@@ -2,6 +2,7 @@
   width: calc(100vw - 48px * 2);
   height: calc((100vw - 48px * 2) * 0.625);
   max-width: 100%;
+  max-height: calc((1280px - 48px * 2) * 0.625);
   background-image: url(../../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   background-size: contain;
